@@ -409,3 +409,21 @@ dd {
 .rd {color: #FF8C00}
 .rt {color: #0000FF}
 .mod {color: #4B0082}
+
+.serverprogress {
+  width: 100%;
+}
+
+.serverprogress-supporting {
+  font-weight: 600;
+  margin:10px;
+  float: right;
+}
+
+.aicp {
+  height: 200px;
+  width: 200px;
+  padding: 1px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
