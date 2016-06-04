@@ -333,8 +333,16 @@ html, body {
   text-decoration: none;
 }
 
+.ashish {
+  background:url('../images/users/ashish.jpg') bottom right 45% no-repeat #3F51B5;
+}
+
 .deepak {
   background:url('../images/users/deepak.png') bottom right 45% no-repeat #3F51B5;
+}
+
+.hafeez {
+  background:url('../images/users/hafeez.png') bottom right 45% no-repeat #3F51B5;
 }
 
 .jack {
@@ -346,24 +354,44 @@ html, body {
   background-size: cover;
 }
 
+.lukasz {
+  background:url('../images/users/lukasz.jpg') bottom right 45% no-repeat #3F51B5;
+}
+
 .rohan {
   background:url('../images/users/rohan.jpg') bottom right 45% no-repeat #3F51B5;
 }
 
-.lukasz {
-  background:url('../images/users/lukasz.jpg') bottom right 45% no-repeat #3F51B5;
+.saatvik {
+  background:url('../images/users/saatvik.jpg') top right 45% no-repeat #3F51B5;
+}
+
+.sanyam {
+  background:url('../images/users/sanyam.jpg') top right 45% no-repeat #3F51B5;
+}
+
+.sarthak {
+  background:url('../images/users/sarthak.jpg') bottom right 45% no-repeat #3F51B5;
 }
 
 .shivam {
   background:url('../images/users/shivam.jpg') bottom right 45% no-repeat #3F51B5;
 }
 
-.sudhanshu {
-  background:url('../images/users/sud.jpg') bottom right 45% no-repeat #3F51B5;
+.soham {
+  background:url('../images/users/soham.jpg') top right 45% no-repeat #3F51B5;
 }
 
 .sourav {
   background:url('../images/users/sourav.jpg') top right 45% no-repeat #3F51B5;
+}
+
+.sudhanshu {
+  background:url('../images/users/sud.jpg') bottom right 45% no-repeat #3F51B5;
+}
+
+.swapnil {
+  background:url('../images/users/swapnil.jpg') top right 45% no-repeat #3F51B5;
 }
 
 .vatsal {
@@ -372,6 +400,10 @@ html, body {
 
 .vikram {
   background:url('../images/users/vikram.jpg') bottom right 45% no-repeat #3F51B5;
+}
+
+.vivek {
+  background:url('../images/users/vivek.jpg') top right 45% no-repeat #3F51B5;
 }
 
 dt {
